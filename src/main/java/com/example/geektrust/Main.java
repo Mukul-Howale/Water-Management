@@ -1,5 +1,7 @@
 package com.example.geektrust;
 
+import com.example.geektrust.exceptions.*;
+
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
